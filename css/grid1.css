@@ -1,0 +1,29 @@
+body{
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    line-height: 25px;
+    font-weight: 100;
+}
+.parent{
+    padding: 1%;
+}
+.kid{
+    width: 20%;
+    height: auto;
+    background-color: white;
+    padding: 1%;
+    margin: 10px;
+    float: left;
+    border:transparent solid;
+    border-radius: 0px 20px 20px 20px;
+}
+i{
+    color: green;
+    background-color: whitesmoke;
+    padding:5%;
+    border:transparent solid;
+    border-radius: 0px 20px 20px 20px;
+}
+p{
+    color: gray;
+}
